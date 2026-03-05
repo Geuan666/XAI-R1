@@ -1,0 +1,17 @@
+{
+  "strict_n": 116,
+  "state_rel0_peak": 1,
+  "mlp_rel0_peak": 0,
+  "attn_rel0_peak": 2,
+  "mlp_dec_peak": 22,
+  "attn_dec_peak": 24,
+  "pvalues": {
+    "state_rel0_peak_vs_rest": 4.492561269126993e-21,
+    "mlp_rel0_peak_vs_rest": 4.492561269126993e-21,
+    "attn_rel0_peak_vs_rest": 4.492561269126993e-21,
+    "mlp_dec_peak_vs_rest": 4.492561269126993e-21,
+    "attn_dec_peak_vs_rest": 4.492561269126993e-21,
+    "attn_minus_mlp_early": 4.492561269126993e-21,
+    "attn_minus_mlp_late": 4.492561269126993e-21
+  }
+}
