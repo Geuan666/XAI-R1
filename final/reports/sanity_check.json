@@ -1,0 +1,23 @@
+{
+  "clean_rate": 0.8780487804878049,
+  "corrupt_non_tool_rate": 0.8292682926829268,
+  "strict_rate": 0.7073170731707317,
+  "te_full_mean": 0.6053643873703874,
+  "te_strict_mean": 0.7409320571677481,
+  "state_center_mean": 0.18479833847295038,
+  "state_decision_mean": 0.317491902526501,
+  "mlp_decision_mean": 0.015452310262658937,
+  "attn_decision_mean": 0.08892830997089676,
+  "state_center_p": 0.0003332222592469177,
+  "state_decision_p": 0.0003332222592469177,
+  "mlp_decision_p": 0.0003332222592469177,
+  "attn_decision_p": 0.0003332222592469177,
+  "ct_head_max": 0.3584670424461365,
+  "ap_head_max": 0.2841167151927948,
+  "necessity_mean": 0.7098875004708605,
+  "sufficiency_mean": 0.760989181221358,
+  "random_drop_mean": 0.012373159286277047,
+  "path_full_p": 0.0003332222592469177,
+  "path_full_vs_no_mlp_p": 0.0003332222592469177,
+  "path_full_vs_no_attn_p": 0.0003332222592469177
+}
